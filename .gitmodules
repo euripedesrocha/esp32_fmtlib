@@ -1,0 +1,3 @@
+[submodule "components/fmtlib/fmtlib"]
+	path = components/fmtlib/fmtlib
+	url = https://github.com/fmtlib/fmt.git
